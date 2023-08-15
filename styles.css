@@ -1,1 +1,12 @@
 /* your code */
+
+
+
+#thead {
+	background-color:blue;
+/*   border: 1px solid black; */
+}
+
+#EvenRowColor {
+	background-color:gray;
+}
