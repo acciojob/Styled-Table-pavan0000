@@ -1,10 +1,14 @@
 /* your code */
 
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
 #thead {
 	background-color:blue;
-/*   border: 1px solid black; */
+  
 }
 
 #EvenRowColor {
